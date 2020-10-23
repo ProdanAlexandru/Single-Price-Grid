@@ -1,0 +1,79 @@
+body{
+    background-color:#d6e0f0;
+}
+.firstcol{
+    background-color:white;
+    height:32vh;
+}
+
+.secondcol{
+    background-color:#28abb9;
+    height:37vh;
+}
+
+.thirdcol{
+    background-color:#41aea9;
+    height:37vh;
+}
+
+#colcontent{
+    max-width:100%;
+     padding-left:40px;
+    padding-top:25px;
+    position:relative;
+    padding-right:40px;
+    
+}
+
+.container{
+    margin: 50px auto;
+    max-width:700px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     color:white;
+}
+
+.firstp{
+    color:#28abb9;
+    font-size:1.3rem;
+    font-weight: 500;
+    padding-top:20px;
+}
+
+.secondp, .thirdp{
+    padding-top:20px;
+    font-size:1.1rem;
+    font-weight:400;
+}
+
+.paragraph1{
+    color:#d3de32;
+    font-weight: 500;
+}
+
+.paragraph2{
+    color:grey;
+}
+
+.paragraph3{
+    color:#cdc9c3;
+}      
+
+.span-class{
+    font-size:2rem;
+    font-weight:600;
+    padding:3px;
+    color:white;
+}
+
+.signupbtn{
+    background-color:#d3de32;
+    font-size:1rem;
+    font-weight:500;
+    width:95%;
+   height:7vh;
+}
+.paragraph4{
+    font-size:0.8rem;
+    margin:2px;
+    color: #d9e4dd;
+}
